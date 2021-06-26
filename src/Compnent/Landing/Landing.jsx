@@ -1,5 +1,5 @@
 import React from 'react';
-import { LearningCss } from '../LearningCss';
+import { LearningCss } from '../Learning/LearningCss';
 
 export const Landing = () => {
     return (

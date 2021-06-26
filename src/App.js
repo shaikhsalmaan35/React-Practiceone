@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import LearningCss from "./Compnent/LearningCss";
+import LearningCss from "./Compnent/Learning/LearningCss";
 import { Landing } from './Compnent/Landing/Landing';
 function App() {
   return (
