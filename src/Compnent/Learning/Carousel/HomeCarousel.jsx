@@ -4,7 +4,7 @@ import React from 'react';
 const HomeCarousel = ()=>{
     return(
         <div>
-</div>
+            <h2>Awez</h2>
         </div>
     );
 };
